@@ -26,7 +26,7 @@ This error message indicates that the user is not allowed to post entries for th
 
 The user in this case has an allowed posting date range from September 11th to September 30th and is therefore not allowed to post the Adjustment Value Entry with Posting Date September 10th.  
 
-### <a name="overview-of-involved-posting-date-setup"></a>Overview of involved posting date setup
+### <a name="overview-of-the-posting-date-setup"></a>Overview of involved posting date setup
 
 #### <a name="inventory-periods"></a>Inventory Periods
 

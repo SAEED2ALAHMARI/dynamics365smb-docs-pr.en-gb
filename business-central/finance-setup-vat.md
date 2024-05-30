@@ -142,7 +142,7 @@ To limit postings for the specific user:
 3. In the **Allow Posting From** field, specify the VAT date from which you allow posting. Posting a document or journal with a VAT date before this date isn't allowed.
 4. In the **Allow Posting To** field, specify the VAT date until which you allow posting. Posting a document or journal with a VAT date after this date isn't allowed.
 
-## <a name="set-up-vat-registration-numbers-for-your-country-or-region"></a>Set up VAT registration numbers for your country or region
+## <a name="set-up-vat-registration-numbers-for-your-countryregion"></a>Set up VAT registration numbers for your country or region
 
 To help ensure people enter valid VAT registration numbers, you can define formats for the VAT registration numbers that are used in the countries or regions in which you do business. [!INCLUDE[prod_short](includes/prod_short.md)] displays an error message if someone makes a mistake or uses a format that is incorrect for the country or region.
 
@@ -232,7 +232,7 @@ The following sections describe how to assign VAT posting groups to individual e
     * On the **Resource** card, expand the **Invoicing** FastTab.  
 3. Choose the VAT product posting group.  
 
-## <a name="set-up-clauses-to-explain-vat-exemption-or-non-standard-vat-rates"></a>Set up clauses to explain VAT exemption or non-standard VAT rates
+## <a name="set-up-clauses-to-explain-vat-exemption-or-nonstandard-vat-rates"></a>Set up clauses to explain VAT exemption or non-standard VAT rates
 
 You set up a VAT clause to describe information about the type of VAT that is being applied. The information may be required by government regulations. After you set up a VAT clause, and associate it with a VAT posting setup, the VAT clause is displayed on printed sales documents that use the VAT posting setup group.
 
@@ -293,7 +293,7 @@ To set up codes for import VAT, follow these steps:
 5. In the **VAT Calculation Type** field, choose **Full VAT**.  
 6. In the **Purchase VAT Account** field, enter the general ledger account to use for posting import VAT. All other accounts are optional.  
 
-## <a name="use-reverse-charge-vat-for-trade-between-eu-countries-or-regions"></a>Use reverse charge VAT for trade between EU countries or regions
+## <a name="use-reverse-charge-vat-for-trade-between-eu-countriesregions"></a>Use reverse charge VAT for trade between EU countries or regions
 
 Some companies must use reverse charge VAT when trading with other companies. For example, this rule applies to purchases from EU countries/regions and sales to EU countries/regions.  
 
@@ -303,7 +303,7 @@ Some companies must use reverse charge VAT when trading with other companies. Fo
 > [!TIP]  
 > You can verify that a company is registered as VAT liable in another EU country/region by using the EU VAT Registration Number Validation service. The service is available for free in [!INCLUDE[prod_short](includes/prod_short.md)]. For more information, see [Verify VAT registration numbers](finance-how-validate-vat-registration-number.md).
 
-### <a name="sales-to-eu-countries-or-regions"></a>Sales to EU countries or regions
+### <a name="sales-to-eu-countriesregions"></a>Sales to EU countries or regions
 
 VAT isn't calculated on sales to VAT-liable companies in other EU countries/regions. You must report the value of these sales to EU countries/regions separately on your VAT statement.  
 
